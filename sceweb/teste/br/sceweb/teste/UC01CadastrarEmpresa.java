@@ -55,5 +55,15 @@ public class UC01CadastrarEmpresa {
 		assertEquals(1, empresaDAO.adiciona(empresa));
 
 	}
+	
+	public void CT02UC01A2cadastra_empresa_cnpj_ja_cadastrado(){
+		
+       
+	}
+	
+	
+	
+	
+	
 
 }
